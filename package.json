@@ -7,6 +7,15 @@
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
   },
+
+  "samples": [
+    {
+      "displayName": "Widget System",
+      "description": "",
+      "path": "Samples~/WidgetSystem"
+    }
+  ],
+  
   "author": {
     "name": "Ural Hedgehog"
   }
