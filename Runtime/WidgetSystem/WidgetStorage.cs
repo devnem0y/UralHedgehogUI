@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace UralHedgehog.UI
 {
-    [CreateAssetMenu(fileName = "WidgetStorage", menuName = "Storage/Widget", order = 0)]
+    [CreateAssetMenu(fileName = "WidgetStorage", menuName = "Ural Hedgehog/UI/Widget Storage", order = 0)]
     public class WidgetStorage : ScriptableObject
     {
         [SerializeField] private MonoBehaviour[] _widgets;
